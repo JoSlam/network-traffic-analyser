@@ -1,5 +1,3 @@
-Name: Joshua Lambert
-ID: 815007658
 Course: COMP 6104
 Assessment 1
 
