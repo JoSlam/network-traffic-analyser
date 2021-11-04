@@ -1,6 +1,3 @@
-Course: COMP 6104
-Assessment 1
-
 This network traffic analyser was a product of my own work for this assessment submission
 
 The project was built in python and has dependencies on the following python libraries:
